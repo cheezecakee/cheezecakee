@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cheezecake
+- 👀 I’m interested in video games, coding, and anything to do with computers 
+- 🌱 I’m currently learning python, and some jQuery 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: twitter @cheezecak33 
